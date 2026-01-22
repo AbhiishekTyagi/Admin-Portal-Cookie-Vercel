@@ -1,6 +1,6 @@
 import {useState} from "react";
 import { useNavigate } from "react-router-dom"; 
-import { useAuth } from "../Store/auth";
+import { useAuth } from "../Store/auth.jsx";
 import {toast} from "react-toastify";
 function Register()
 {

@@ -1,6 +1,6 @@
 import {useEffect,useState} from "react";
 import {toast} from "react-toastify"
-import { useAuth } from "../Store/auth";
+import { useAuth } from "../Store/auth.jsx";
 import {Link} from "react-router-dom";
 
 //Admin User Page

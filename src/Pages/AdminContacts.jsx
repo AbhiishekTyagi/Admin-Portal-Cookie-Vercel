@@ -1,5 +1,5 @@
 import {useState,useEffect} from "react";
-import { useAuth } from "../Store/auth";
+import { useAuth } from "../Store/auth.jsx";
 import {toast} from "react-toastify";
 function AdminContacts()
 {
